@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @umermasood
-- 👀 I’m interested in Open-source Dev, AI, Cross Platform App Dev
+- 👀 I’m interested in Artificial Intelligence, Open-Source
 - 🌱 I’m currently learning Dart and Flutter
 - 💞️ I’m looking to collaborate on Dart and Flutter sdk
 - 📫 How to reach me: umermasood.dev@gmail.com
