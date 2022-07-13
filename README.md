@@ -5,6 +5,7 @@
 - 👀 Gopher, self-actualized genios.
 - 🤫 Currently learning how to exit vim
 - 📫 How to reach me: umermasood.dev@gmail.com
+![We live in a simulation](https://github.com/umermasood/umermasood/blob/main/matrix.gif)
 
 <!---
 umermasood/umermasood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
