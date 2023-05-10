@@ -4,7 +4,6 @@
 - 💞️ Loves writing 0s and 1s.
 - 👀 Gopher, self-actualized genios.
 - 🤫 Currently learning [how to exit vim](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- ➡️☆⬇️↘️➡️ wavu wavu ⬅️⬅️↙️⬅️ ⬅️↙️⬅️ kbd kbd
 - 📫 How to reach me: umermasood.dev@gmail.com
 ![We live in a simulation](https://github.com/umermasood/umermasood/blob/main/matrix.gif)
 
